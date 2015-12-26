@@ -2,8 +2,6 @@ portmidi_cdt.zip
 build*/
 pm_csharp/
 pm_cl/
-pm_dylib/
-pm_java/
 pm_mingw/
 ALL_BUILD.vcproj
 portmidi.sln
